@@ -27,6 +27,9 @@ Finish time: 5:30pm Mpnday, 23 April
 
 Actual time needed to complete: 2.5hrs
 
+### I did something weird.
+    Now the repo will not 'git add .' I don't know why... all I did was update the README.md and I don't know what is wrong.
+    
 ## Credit and Collaborations
 Credit to Tammy Do for patiently guiding me through the first three labs.
 ChatGPT for sytntax and debugging.
